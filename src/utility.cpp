@@ -1,3 +1,6 @@
+//
+// Created by Pavel Melnychuk on 23.05.2020.
+//
 #include "utility.h"
 
 //max of 3 float values

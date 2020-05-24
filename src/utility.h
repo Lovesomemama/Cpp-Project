@@ -1,3 +1,6 @@
+//
+// Created by Pavel Melnychuk on 23.05.2020.
+//
 #ifndef UTILITY_H
 #define UTILITY_H
 

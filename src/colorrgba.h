@@ -1,3 +1,6 @@
+//
+// Created by Pavel Melnychuk on 23.05.2020.
+//
 #ifndef COLORRGBA_H
 #define COLORRGBA_H
 

@@ -1,3 +1,6 @@
+//
+// Created by Pavel Melnychuk on 23.05.2020.
+//
 #ifndef COLORCMYK_H
 #define COLORCMYK_H
 

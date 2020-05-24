@@ -1,3 +1,6 @@
+//
+// Created by Pavel Melnychuk on 23.05.2020.
+//
 #include "colorhsb.h"
 #include "colorrgba.h"
 #include "colorcmyk.h"
